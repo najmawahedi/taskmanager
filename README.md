@@ -1,5 +1,5 @@
 # TaskManager
 
-# features
+# features/
 
 
